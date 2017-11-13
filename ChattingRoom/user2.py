@@ -1,3 +1,3 @@
-import client
+import Client
 
-client.run(4444, 7777)
+Client.run(4444, 7777, "user2")
